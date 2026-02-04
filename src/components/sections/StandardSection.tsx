@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const standards = [
   {
     title: 'Materials Discipline',
-    image: '../src/assets/01_materials_discipline.png',
+    image: './src/assets/01_materials_discipline.png',
     description:
       'We begin with fabric. Every textile is selected for its gentleness against sensitive skin—organic cottons, pre-washed for softness, OEKO-TEX certified for safety. No compromises.',
     detail:
@@ -11,7 +11,7 @@ const standards = [
   },
   {
     title: 'Construction Logic',
-    image: '../src/assets/02_construction_logic.png',
+    image: './src/assets/02_construction_logic.png',
     description:
       'Seams are positioned away from pressure points. Closures are designed for medical access when needed. Every detail serves the child, not the aesthetic.',
     detail:
@@ -19,7 +19,7 @@ const standards = [
   },
   {
     title: 'Design Restraint',
-    image: '../src/assets/03_design_restraint.png',
+    image: './src/assets/03_design_restraint.png',
     description:
       "Less is more. We resist decoration, ornamentation, and anything that doesn't serve function. Beauty emerges from intention, not excess.",
     detail:
@@ -27,7 +27,7 @@ const standards = [
   },
   {
     title: 'Care Philosophy',
-    image: '../src/assets/04_care_philosophy.png',
+    image: './src/assets/04_care_philosophy.png',
     description:
       'Safety is not negotiable. We exceed regulatory standards because trust is built through exceeding expectations, not meeting minimums.',
     detail:
