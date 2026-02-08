@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X, ShoppingBag } from 'lucide-react';
 import { useScrollPosition } from '@/hooks/useScrollPosition';
 import { useCart } from '@/contexts/CartContext';
-import logo from '@/assets/avontae-logo.png';
+import logo from '@/assets/avontae-logo-2.png';
 
 const navItems = [
   { label: 'Begin', href: '#begin' },
